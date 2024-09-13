@@ -1,0 +1,29 @@
+html{
+    background-color: #000000;
+    color: #ffff00;
+}
+
+header{
+    background-color: blue;
+}
+
+main{
+    background-color: green;
+}
+
+footer{
+    background-color: red;
+}
+
+article{
+    background-color: gray;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%
+}
+
+table, th, td {
+    border: 1px solid;
+}
